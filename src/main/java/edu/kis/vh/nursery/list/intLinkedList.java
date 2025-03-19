@@ -19,7 +19,7 @@ public class intLinkedList {
         return last == null;
     }
 
-    public boolean isFull() {
+    public boolean isItFull() {
         return false;
     }
 
