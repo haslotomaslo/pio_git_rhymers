@@ -16,11 +16,11 @@ public class intLinkedList {
         }
     }
 
-    public boolean isEmpty() {
+    private boolean isEmpty() {
         return last == null;
     }
 
-    public boolean isItFull() {
+    private boolean isItFull() {
         return false;
     }
 
