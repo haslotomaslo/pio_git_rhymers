@@ -8,6 +8,7 @@ public class DefaultCountingOutRhymer {
     private final int[] numbers = new int[MAX_SIZE];
 
     private int total = -1;
+	
 	public int getTotal() {
         return total;
     }
